@@ -18,7 +18,7 @@ class WordTable extends Component {
     }
     render() {
         const words = this.filter(this.props.text);
-        const items = words.map((item) => <Word key={item.id} item={item} />)
+        const items = words.map((item) => <Word key={item.word} item={item} />)
         return (
             <div>{items}</div>
         );
