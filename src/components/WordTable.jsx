@@ -20,7 +20,17 @@ class WordTable extends Component {
         const words = this.filter(this.props.text);
         const items = words.map((item) => <Word key={item.word} item={item} />)
         return (
-            <div>{items}</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Word</th>
+                        <th>Meaning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {items}
+                </tbody>
+            </table>
         );
     }
 }

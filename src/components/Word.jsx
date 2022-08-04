@@ -4,7 +4,10 @@ import React from 'react';
 function Word(props) {
     const item = props.item;
     return (
-        <p>{item.word} {item.meaning}</p>
+        <tr>
+            <td>{item.word}</td>
+            <td>{item.meaning}</td>
+        </tr>
     );
 }
 
