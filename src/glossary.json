@@ -167,9 +167,6 @@
      "kor": "알카리포스타파제"
     },
     {
-     "eng": "(사용 : ALP score, ALP stain)"
-    },
-    {
      "word": "AMI",
      "eng": "Acute Myocardial Infarction",
      "kor": "급성심근경색"
@@ -380,11 +377,8 @@
     },
     {
      "word": "BSO",
-     "eng": "bilateral",
+     "eng": "bilateral salpingo-oophorectomy",
      "kor": "양측난관난소적출술"
-    },
-    {
-     "eng": "salpingo-oophorectomy"
     },
     {
      "word": "BSV",
@@ -442,11 +436,8 @@
     },
     {
      "word": "CAOD",
-     "eng": "coronary artery obstructive",
+     "eng": "coronary artery obstructive disease",
      "kor": "관상동맥폐색성질환"
-    },
-    {
-     "eng": "disease"
     },
     {
      "word": "Ca\/P",
@@ -455,11 +446,8 @@
     },
     {
      "word": "CAPD",
-     "eng": "continuous ambulatory",
+     "eng": "continuous ambulatory peritoneal dialysis",
      "kor": "지속적외래복막투석법"
-    },
-    {
-     "eng": "peritoneal dialysis"
     },
     {
      "word": "Cath",
@@ -573,18 +561,12 @@
     },
     {
      "word": "CML",
-     "eng": "chronic myelanocyte"
-    },
-    {
-     "eng": "leukemia"
+     "eng": "chronic myelanocyte leukemia"
     },
     {
      "word": "CMML",
-     "eng": "chronic myelomonocytic",
+     "eng": "chronic myelomonocytic leukemia",
      "kor": "만성골수단구성백혈병"
-    },
-    {
-     "eng": "leukemia"
     },
     {
      "word": "CMV",
@@ -608,11 +590,8 @@
     },
     {
      "word": "COPD",
-     "eng": "chronic obstructive",
+     "eng": "chronic obstructive pulmonary disease",
      "kor": "만성폐쇄성폐질환"
-    },
-    {
-     "eng": "pulmonary disease"
     },
     {
      "word": "CP",
@@ -625,11 +604,8 @@
     },
     {
      "word": "CPAP",
-     "eng": "continuous positive airway",
+     "eng": "continuous positive airway pressure",
      "kor": "지속성기도양압법"
-    },
-    {
-     "eng": "pressure"
     },
     {
      "word": "CPB",
@@ -689,8 +665,6 @@
      "eng": "chest tube",
      "kor": "가슴관"
     },
-    null,
-    null,
     {
      "word": "C-T",
      "eng": "chlorpheniramine maleate",
@@ -758,11 +732,8 @@
     },
     {
      "word": "DI",
-     "eng": "drug",
+     "eng": "drug intoxication",
      "kor": "약물중독"
-    },
-    {
-     "eng": "intoxication"
     },
     {
      "word": "DIC",
@@ -873,9 +844,6 @@
      "word": "Endo",
      "eng": "endotracheal",
      "kor": "기관(氣管) 내의, 기관 내를 통해서의"
-    },
-    {
-     "eng": "(endo suction)"
     },
     {
      "word": "E-pump",
@@ -1181,7 +1149,7 @@
     },
     {
      "word": "ICH",
-     "eng": "Intracerebral　hemorrhage",
+     "eng": "Intracerebral hemorrhage",
      "kor": "뇌내출혈"
     },
     {
@@ -1367,18 +1335,12 @@
     {
      "word": "MR",
      "eng": "Mitral valve regurgitation",
-     "kor": "승모판역류"
-    },
-    {
-     "kor": "[승모판폐쇄부전증](=MI)"
+     "kor": "승모판역류 [승모판폐쇄부전증](=MI)"
     },
     {
      "word": "MRI",
      "eng": "Magnetic resonance imaging",
-     "kor": "자기공명영상(법)"
-    },
-    {
-     "kor": "[핵자기공명 촬영진단법]"
+     "kor": "자기공명영상(법) [핵자기공명 촬영진단법]"
     },
     {
      "word": "M\/S",
@@ -1398,10 +1360,7 @@
     {
      "word": "MVR",
      "eng": "Mitral valve replacement",
-     "kor": "승모판대치(술),"
-    },
-    {
-     "kor": "승모판치환(술)"
+     "kor": "승모판대치(술), 승모판치환(술)"
     },
     {
      "word": "NAB",
@@ -1426,10 +1385,7 @@
     {
      "word": "N\/S",
      "eng": "Normal saline",
-     "kor": "정상식염수,"
-    },
-    {
-     "kor": "생리식염수(=NS)"
+     "kor": "정상식염수, 생리식염수(=NS)"
     },
     {
      "word": "NSAID",
@@ -1499,10 +1455,7 @@
     {
      "word": "PAT",
      "eng": "Paroxysmal atrial tachycardia",
-     "kor": "발작성심방(성)빈맥(증)"
-    },
-    {
-     "kor": "&lt;빈박(증)&gt;"
+     "kor": "발작성심방(성)빈맥(증) &lt;빈박(증)&gt;"
     },
     {
      "word": "PD",
@@ -1521,11 +1474,8 @@
     },
     {
      "word": "PHx",
-     "eng": "Past history",
+     "eng": "Past history (=PH, PMH, Px)",
      "kor": "과거력, 기왕력"
-    },
-    {
-     "kor": "(=PH, PMH, Px)"
     },
     {
      "word": "PI",
@@ -1604,11 +1554,8 @@
     },
     {
      "word": "PSVT",
-     "eng": "Paroxysmal supraventricular",
+     "eng": "Paroxysmal supraventricular tachycardia",
      "kor": "발작성상실성빈맥"
-    },
-    {
-     "eng": "tachycardia"
     },
     {
      "word": "P\/T",
@@ -1622,19 +1569,13 @@
     },
     {
      "word": "PTBD",
-     "eng": "Percutaneous transhepatic biliary",
+     "eng": "Percutaneous transhepatic biliary drainage",
      "kor": "경피경간적담(즙)배액법"
     },
     {
-     "eng": "drainage"
-    },
-    {
      "word": "PTCA",
-     "eng": "Percutaneous transluminal coronary",
+     "eng": "Percutaneous transluminal coronary angioplasty",
      "kor": "경피경관적관동맥성형술"
-    },
-    {
-     "eng": "angioplasty"
     },
     {
      "word": "PTT",
@@ -1783,10 +1724,7 @@
     {
      "word": "SIADH",
      "eng": "Syndrome of inappropriate secretion of antidiuretic hormone",
-     "kor": "항이뇨호르몬 부적절 분비"
-    },
-    {
-     "kor": "증후군"
+     "kor": "항이뇨호르몬 부적절 분비 증후군"
     },
     {
      "word": "SLD",
@@ -1827,9 +1765,6 @@
      "word": "ST",
      "eng": "Sensitivity test",
      "kor": "피부민감성시험"
-    },
-    {
-     "eng": "(사용 : culture c its ST)"
     },
     {
      "word": "STD",
@@ -1929,10 +1864,7 @@
     {
      "word": "TVH",
      "eng": "Total vaginal hysterectomy",
-     "kor": "질식자궁절제술"
-    },
-    {
-     "kor": "(질구를통해자궁을절제)"
+     "kor": "질식자궁절제술 (질구를통해자궁을절제)"
     },
     {
      "word": "Tx",
