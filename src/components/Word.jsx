@@ -6,7 +6,7 @@ function Word(props) {
     return (
         <tr>
             <td>{item.word}</td>
-            <td>{item.meaning}</td>
+            <td>{item.eng}</td>
         </tr>
     );
 }
