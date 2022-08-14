@@ -19,6 +19,7 @@ class WordTable extends Component {
                     <tr>
                         <th>Word</th>
                         <th>Meaning</th>
+                        <th>뜻</th>
                     </tr>
                 </thead>
                 <tbody>

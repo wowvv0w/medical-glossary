@@ -7,6 +7,7 @@ function Word(props) {
         <tr>
             <td>{item.word}</td>
             <td>{item.eng}</td>
+            <td>{item.kor}</td>
         </tr>
     );
 }
