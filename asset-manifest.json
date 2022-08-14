@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medical-glossary/static/css/main.e6c13ad2.css",
-    "main.js": "/medical-glossary/static/js/main.389d6630.js",
+    "main.css": "/medical-glossary/static/css/main.eeb81bcd.css",
+    "main.js": "/medical-glossary/static/js/main.7d2fb481.js",
     "static/js/787.cdf26fe8.chunk.js": "/medical-glossary/static/js/787.cdf26fe8.chunk.js",
     "index.html": "/medical-glossary/index.html",
-    "main.e6c13ad2.css.map": "/medical-glossary/static/css/main.e6c13ad2.css.map",
-    "main.389d6630.js.map": "/medical-glossary/static/js/main.389d6630.js.map",
+    "main.eeb81bcd.css.map": "/medical-glossary/static/css/main.eeb81bcd.css.map",
+    "main.7d2fb481.js.map": "/medical-glossary/static/js/main.7d2fb481.js.map",
     "787.cdf26fe8.chunk.js.map": "/medical-glossary/static/js/787.cdf26fe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.389d6630.js"
+    "static/css/main.eeb81bcd.css",
+    "static/js/main.7d2fb481.js"
   ]
 }
