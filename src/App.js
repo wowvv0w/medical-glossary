@@ -19,6 +19,7 @@ class App extends Component {
             <React.StrictMode>
                 <Header />
                 <SearchBar onChange={this.updateResult}/>
+                <br />
                 <WordTable text={this.state.text}/>
             </React.StrictMode>
         );
