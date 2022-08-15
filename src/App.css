@@ -6,17 +6,23 @@
   height: 30px;
 }
 .word_block {
-  height: 30px;
+  width: 50%;
+  height: 50px;
+  margin: 10px 0;
+  display: inline-block;
 }
-.word {
-  width: 10%;
+.word_block :first-child {
+  font-size: larger;
 }
-.meaning {
-  width: 45%;
-}
+
 .table {
   width: 90%;
   margin: 0 auto;
+}
+.table p {
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
 }
 .div_search {
   text-align: center;

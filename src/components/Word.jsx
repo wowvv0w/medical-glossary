@@ -4,11 +4,11 @@ import '../App.css';
 function Word(props) {
     const item = props.item;
     return (
-        <tr className="word_block">
-            <td>{item.word}</td>
-            <td>{item.eng}</td>
-            <td>{item.kor}</td>
-        </tr>
+        <div className="word_block">
+            <label>{item.word}</label>
+            <br />
+            <label>{item.eng}&nbsp;&nbsp;&nbsp;&nbsp;{item.kor}</label>
+        </div>
     );
 }
 
