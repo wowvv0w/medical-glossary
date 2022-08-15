@@ -7,7 +7,7 @@ function Word(props) {
         <div className="word_block">
             <label>{item.word}</label>
             <br />
-            <label>{item.eng}&nbsp;&nbsp;&nbsp;&nbsp;{item.kor}</label>
+            <label>{item.eng}<br />{item.kor}</label>
         </div>
     );
 }

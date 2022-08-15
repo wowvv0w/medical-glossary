@@ -6,10 +6,9 @@
   height: 30px;
 }
 .word_block {
-  width: 50%;
-  height: 50px;
-  margin: 10px 0;
-  display: inline-block;
+  padding: 10px;
+  border: 2px solid grey;
+  text-align: left;
 }
 .word_block :first-child {
   font-size: larger;
@@ -18,11 +17,16 @@
 .table {
   width: 90%;
   margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
 }
 .table p {
   text-align: center;
   font-weight: bold;
   font-size: larger;
+  grid-column-start: 1;
+  grid-column-end: 3;
 }
 .div_search {
   text-align: center;
